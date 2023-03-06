@@ -241,3 +241,4 @@ taxonomy:topics a skos:Concept ;
    skos:topConceptOf taxonomy: ;
    skos:narrower taxonomy:life, taxonomy:halakha, taxonomy:liturgy, taxonomy:kabbalah ;
    skos:prefLabel "Topics of a text"@en .
+
